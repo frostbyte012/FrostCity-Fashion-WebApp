@@ -1,0 +1,35 @@
+This Is me Deepraj Majumdar.I've always wanted to be a part of Web Development Team so i wanted to to this project with lots of love and passion.
+I've tried to make this project with more creativity and passion and enthusiasm than others.Plus I've added my own creative icons and branding that I've been 
+planning to launch in future and my own start-up related to E-commerce and web and app technologies and Development.
+Some of my Major creativity includes:-
+1.Adding my own brand logo
+2.Making a navigation bar
+3.Adding A responsive video background.
+4.Adding Feautured Sections.
+5.Adding Hover Effect to those sections.
+6.Adding Brand icons like apple and microsoft
+7.Adding Sponsor brands like Gucci,addidas,Puma ,Levis..etc
+8.Adding Hover effects to different icons
+9.Adding HD quality images and icons.
+10.Adding more real HD Footer.
+11.Adding vector images of Play Store and App Store.
+12.Adding My Own self Design of My own brand "FrostCity.com".
+If you Kindly review my Work and Judge Me and help me to be selected as a permanent member, I shall be hghly obliged and will try my utmost to make the best use of my skill,
+and cooperate with you all to build the best apps and Websites.
+13.It Also includes efficient use of mySql and PHY admin.
+Steps to run:-
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on the databases tab
+6th Step: Create a database naming “ecommerce” and then click on the import tab
+7th Step: Click on browse file and select “onlineshop.sql” file which is inside the “database” folder
+8th Step: Click on go.
+9th Step: Open a browser and go to URL “http://localhost/online-shopping-system/”
+Thanking You 
+Yours Faithfully
+Depraj Majumdar
+B190012CS
+Computer Science And Engineering.
+
